@@ -10,10 +10,13 @@ console.log(firstName, lastName);
 const fName = "Dave";
 const lName = "Williams";
 const city = "Berlin";
-const job = "Teacher";
+const job = "teacher";
 const age = "31";
 console.log(fName, lName, city, job, age);
 
-console.log("John Smith " + "is " + "a " + "43 " + "year " +
-            "old " + "teacher " + "who " + "lives " + "in " +
-            "Berlin");
+let fName1 = "John ";
+let lName2 = "Smith";
+let age1 = "43";
+console.log(fName1  + lName2  + " is " + "a " + age1 + " year " +
+            "old " + job  + " who " + "lives " + "in " +
+            city);
