@@ -13,8 +13,7 @@ let name = 'James';
 let city = 'Berlin';
 let job = 'engineer';
 let hobby = 'reading';
-let phoneNumber = '0123456789';
+let phoneNumber = '0123456789'
 console.log(name, city, job, hobby, phoneNumber);
 
-
-console.log("name " + "city " + "job " + "hobby " + "phoneNumber”);
+console.log("name " + "city " + "job " + "hobby " + "phoneNumber”)
